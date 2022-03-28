@@ -1,1 +1,1 @@
-# PlanComp-iOSApp
+# Social Networking iOS App
