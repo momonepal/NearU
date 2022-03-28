@@ -13,6 +13,7 @@
   ```
   $ git clone https://github.com/momonepal/PlanComp-iOSApp.git
   ```
+-  Navigate to the unzipped folder in Terminal and run `pod install`.
 - `$ open plan.xcworkspace` and Build the project (⌘+B) [on iPhone11 as simulator device].
 
 
