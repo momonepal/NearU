@@ -17,6 +17,7 @@
 -  Navigate to the unzipped folder in Terminal and run `pod install`.
 - `$ open plan.xcworkspace` and Build the project (⌘+B) [on iPhone11 as simulator device].
 
+-------------------------
 
 ### For more info on Setting Up
 - https://developer.apple.com/xcode/
