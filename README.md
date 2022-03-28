@@ -17,3 +17,6 @@
 - `$ open plan.xcworkspace` and Build the project (⌘+B) [on iPhone11 as simulator device].
 
 
+### For more info on Setting Up
+- https://developer.apple.com/xcode/
+- https://cocoapods.org/
