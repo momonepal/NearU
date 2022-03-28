@@ -13,6 +13,6 @@
   ```
   $ git clone https://github.com/momonepal/PlanComp-iOSApp.git
   ```
-- `$ open plan.xcworkspace` and Build the project (⌘+B).
+- `$ open plan.xcworkspace` and Build the project (⌘+B) [on iPhone11].
 
 
