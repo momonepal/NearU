@@ -7,7 +7,7 @@
 
 - iOS 9.0+
 - [Xcode IDE](https://developer.apple.com/xcode/)
-- [Install Cocoapods](https://www.raywenderlich.com/7076593-cocoapods-tutorial-for-swift-getting-started)
+- [Install Cocoapods](https://www.raywenderlich.com/7076593-cocoapods-tutorial-for-swift-getting-started) - a dependency manager
 
 ## Setup
 - Clone the Repo
