@@ -9,12 +9,10 @@
 - [Xcode IDE](https://developer.apple.com/xcode/)
 
 ## Setup
-- Close Xcode
-- Open a terminal window, and `$ cd` into your project directory.
-- Run `$ pod install`
-- You may require to run `$ pod update`
-- `$ open AmahiAnywhere.xcworkspace` and build.
-- The build may fail with a missing ApiConfig.swift file
-- This file has developer/production credentials/endpoints and should not be shared. Email support at amahi dot org a copy of this file. 
+- Clone the Repo
+  ```
+  $ git clone https://github.com/momonepal/PlanComp-iOSApp.git
+  ```
+- `$ open plan.xcworkspace` and build.
 
-### Code Practices
+
