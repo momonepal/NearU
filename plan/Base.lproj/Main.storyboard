@@ -73,6 +73,9 @@
                         <viewLayoutGuide key="safeArea" id="ejr-OH-dbX"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <connections>
+                        <segue destination="dqO-BI-eyE" kind="presentation" identifier="LogInSegue" id="cfx-N9-uzY"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BPW-cP-wsl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

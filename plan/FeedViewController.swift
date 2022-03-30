@@ -39,7 +39,7 @@ class FeedViewController: UIViewController,UITableViewDelegate, UITableViewDataS
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        
+/*
         let cell = tableView.dequeueReusableCell(withIdentifier: "postCell") as! postCell
         
         let post = posts[indexPath.row]
@@ -55,8 +55,9 @@ class FeedViewController: UIViewController,UITableViewDelegate, UITableViewDataS
         cell.photoView.af.setImage(withURL: url)
         
         return cell
-    }
-    
+         */
+ }
+
     
     
     /*
