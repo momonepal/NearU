@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5D1B108DF5E862112AD70E30 /* Pods_plan.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9928AD61AEEECC17A9BF8310 /* Pods_plan.framework */; };
 		E47035F92805673500D81973 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47035F82805673500D81973 /* CameraViewController.swift */; };
+		E47035FB2805F38C00D81973 /* postCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47035FA2805F38C00D81973 /* postCell.swift */; };
 		E47BFA2627F42CFC009ECC88 /* logInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47BFA2527F42CFC009ECC88 /* logInViewController.swift */; };
 		E47BFA2827F42D1A009ECC88 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47BFA2727F42D1A009ECC88 /* FeedViewController.swift */; };
 		E49D821F27D7D9E00020B65D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49D821E27D7D9E00020B65D /* AppDelegate.swift */; };
@@ -42,6 +43,7 @@
 		8756D05F4CFF089F10E1BECE /* Pods-plan.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-plan.debug.xcconfig"; path = "Target Support Files/Pods-plan/Pods-plan.debug.xcconfig"; sourceTree = "<group>"; };
 		9928AD61AEEECC17A9BF8310 /* Pods_plan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_plan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E47035F82805673500D81973 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		E47035FA2805F38C00D81973 /* postCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = postCell.swift; sourceTree = "<group>"; };
 		E47BFA2527F42CFC009ECC88 /* logInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = logInViewController.swift; sourceTree = "<group>"; };
 		E47BFA2727F42D1A009ECC88 /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		E49D821B27D7D9E00020B65D /* plan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = plan.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -136,6 +138,7 @@
 				E49D822927D7D9E40020B65D /* LaunchScreen.storyboard */,
 				E49D822C27D7D9E40020B65D /* Info.plist */,
 				E47035F82805673500D81973 /* CameraViewController.swift */,
+				E47035FA2805F38C00D81973 /* postCell.swift */,
 			);
 			path = plan;
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E47BFA2627F42CFC009ECC88 /* logInViewController.swift in Sources */,
+				E47035FB2805F38C00D81973 /* postCell.swift in Sources */,
 				E47035F92805673500D81973 /* CameraViewController.swift in Sources */,
 				E47BFA2827F42D1A009ECC88 /* FeedViewController.swift in Sources */,
 				E49D821F27D7D9E00020B65D /* AppDelegate.swift in Sources */,
