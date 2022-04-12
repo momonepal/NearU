@@ -99,11 +99,32 @@
                         <viewLayoutGuide key="safeArea" id="Itv-vj-WAx"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="LbY-c1-oVz"/>
+                    <navigationItem key="navigationItem" id="LbY-c1-oVz">
+                        <barButtonItem key="rightBarButtonItem" title="+" image="plus.circle.fill" catalog="system" id="Kra-qC-i8o">
+                            <connections>
+                                <segue destination="3y2-p9-B1u" kind="presentation" id="JbB-o3-EFw"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gqD-Tr-YyM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1818.840579710145" y="77.678571428571431"/>
+        </scene>
+        <!--Camera View Controller-->
+        <scene sceneID="E0S-Zk-t46">
+            <objects>
+                <viewController id="3y2-p9-B1u" customClass="CameraViewController" customModule="plan" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Weu-KC-YbW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="SaT-yW-YaM"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QHz-8B-qGO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2590" y="78"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Fic-AB-FSr">
@@ -125,6 +146,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="plus.circle.fill" catalog="system" width="128" height="121"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
