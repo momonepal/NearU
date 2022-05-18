@@ -22,7 +22,7 @@ class logInViewController: UIViewController {
                 let errorMsg = UIAlertController(title: "Error signing in", message: "Invalid username/password", preferredStyle: .alert)
                 let ok = UIAlertAction(title: "OK", style: .default, handler: { (action) -> Void in
                     print("Ok button tapped")
-                 })
+                })
                 errorMsg.addAction(ok)
                 self.present(errorMsg, animated: true, completion: nil)
             }
