@@ -1,10 +1,18 @@
+//
+//  CommentCell.swift
+//  plan
+//
+//  Created by Mohit on 5/24/22.
+//
 
 import UIKit
 
-class postCell: UITableViewCell {
-    @IBOutlet weak var photoView: UIImageView!
-    @IBOutlet weak var captionLabel: UILabel!
-    @IBOutlet weak var usernameLabel: UILabel!
+class CommentCell: UITableViewCell {
+
+    @IBOutlet weak var nameLabel: UILabel!
+    
+    @IBOutlet weak var commentLabel: UILabel!
+    
     
     override func awakeFromNib() {
         super.awakeFromNib()

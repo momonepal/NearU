@@ -9,5 +9,6 @@ target 'plan' do
   # This pulls in the latest version of Alamofire. IF you have an older version of Xcode, please use version 4.0 or check their documentation!
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'  
   
 end

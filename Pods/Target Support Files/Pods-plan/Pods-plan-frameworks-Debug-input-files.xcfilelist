@@ -2,4 +2,5 @@ ${PODS_ROOT}/Target Support Files/Pods-plan/Pods-plan-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
 ${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
 ${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework
+${BUILT_PRODUCTS_DIR}/MessageInputBar/MessageInputBar.framework
 ${BUILT_PRODUCTS_DIR}/Parse/Parse.framework

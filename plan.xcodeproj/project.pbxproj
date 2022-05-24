@@ -19,6 +19,7 @@
 		E49D822B27D7D9E40020B65D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E49D822927D7D9E40020B65D /* LaunchScreen.storyboard */; };
 		E49D823627D7D9E50020B65D /* planTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49D823527D7D9E50020B65D /* planTests.swift */; };
 		E49D824127D7D9E50020B65D /* planUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49D824027D7D9E50020B65D /* planUITests.swift */; };
+		E4B690B9283D523500C6487E /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B690B8283D523500C6487E /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		E49D823C27D7D9E50020B65D /* planUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = planUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E49D824027D7D9E50020B65D /* planUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = planUITests.swift; sourceTree = "<group>"; };
 		E49D824227D7D9E50020B65D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4B690B8283D523500C6487E /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				E49D821E27D7D9E00020B65D /* AppDelegate.swift */,
 				E49D822027D7D9E00020B65D /* SceneDelegate.swift */,
 				E49D822427D7D9E00020B65D /* Main.storyboard */,
+				E4B690B8283D523500C6487E /* CommentCell.swift */,
 				E47BFA2527F42CFC009ECC88 /* logInViewController.swift */,
 				E47BFA2727F42D1A009ECC88 /* FeedViewController.swift */,
 				E49D822727D7D9E40020B65D /* Assets.xcassets */,
@@ -341,6 +344,7 @@
 				E47BFA2827F42D1A009ECC88 /* FeedViewController.swift in Sources */,
 				E49D821F27D7D9E00020B65D /* AppDelegate.swift in Sources */,
 				E49D822127D7D9E00020B65D /* SceneDelegate.swift in Sources */,
+				E4B690B9283D523500C6487E /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
