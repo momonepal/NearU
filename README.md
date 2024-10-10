@@ -12,7 +12,7 @@
 ## Setup
 - Clone the Repo
   ```
-  $ git clone https://github.com/momonepal/PlanComp-iOSApp.git
+  $ git clone https://github.com/momonepal/NearU.git
   ```
 -  Navigate to the unzipped folder in Terminal and run `pod install`.
 - `$ open plan.xcworkspace` and Build the project (⌘+B)
