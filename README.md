@@ -3,6 +3,9 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+NearU is a hyperlocal social networking Native iOS App built in Swift/XCode with a Parse backend that allows users to share hyperlocal content in real time, view the local feed, and comment on posts within their local area.
+
+
 ## Requirements
 
 - iOS 9.0+
