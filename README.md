@@ -9,6 +9,12 @@
 
 NearU is a hyperlocal social networking Native iOS App built in Swift/XCode with a custom Parse backend that allows users to share hyperlocal content in real time, view the local feed, and comment on posts within their local area.
 
+The idea is to build this into something like yikyak or Jodel, where the social media interaction and influence is bounded to proximity. 
+There is no pressure to build a persona as there are no profiles, or personas. 
+
+And here's the early [*Pitchdeck for NearU* ](https://www.canva.com/design/DAFQV3D42yQ/vUb4-sGxcMvWC38p0MGAyA/view?utm_content=DAFQV3D42yQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer#1) 
+There have been some deviations in the projects. This repo serves as a POC/MVP.
+
 <br>
 
 |          Sign Up/Login       |    View Posts & Add comments  |
@@ -18,6 +24,18 @@ NearU is a hyperlocal social networking Native iOS App built in Swift/XCode with
 |  |  |
 | ![](assets/3.gif)            | ![](assets/5.gif)             |
 
+-------
+
+User Stories
+
+- [x] User can sign up to create a new account and log in.
+- [x] User can take a photo, add a caption, and post it to the server. 
+- [x] User can view the feed
+- [x] User can view comments on a post and can add a new comment. 
+- [x] User stays logged in across restarts/sessions. 
+- [x] User can log out.
+- [ ] User can pull to refresh.
+- [ ] Posts are geofenced to a mile around user [WIP]
 
 
 ## Requirements
@@ -38,8 +56,9 @@ NearU is a hyperlocal social networking Native iOS App built in Swift/XCode with
 
 -------------------------
 
-### For more info on Setting Up
+### For more info on setting up
 - https://developer.apple.com/xcode/
 - https://cocoapods.org/
 - https://www.raywenderlich.com/7076593-cocoapods-tutorial-for-swift-getting-started
 - https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories
+
