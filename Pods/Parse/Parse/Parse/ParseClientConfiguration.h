@@ -22,8 +22,8 @@ NS_ASSUME_NONNULL_BEGIN
  during which time you should set your properties on it, similar to the following:
 
  ```
- configuration.applicationId = @"<#YOUR APPLICATION ID#>"
- configuration.clientKey = @"<#YOUR CLIENT KEY#>"
+ configuration.applicationId = @"YOUR APPLICATION ID"
+ configuration.clientKey = @"YOUR CLIENT KEY"
  configuration.localDatastoreEnabled = true
  ```
  */

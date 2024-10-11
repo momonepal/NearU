@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EAFFB8E885E2EDFD55062DE694143593"
-               BuildableName = "Parse.bundle"
-               BlueprintName = "Parse-Parse"
+               BlueprintIdentifier = "7B28C4D8238B984881411C5F51BC30D6"
+               BuildableName = "MessageInputBar.framework"
+               BlueprintName = "MessageInputBar"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
