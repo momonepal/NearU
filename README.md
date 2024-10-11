@@ -15,7 +15,7 @@ NearU is a hyperlocal social networking Native iOS App built in Swift/XCode with
 | :--------------------------: | :---------------------------: |
 | ![](assets/1.gif)            | ![](assets/3.gif)                    |
 |  View Posts & Add comments   |        Sign Out               |
-| :--------------------------: | :---------------------------: |
+|  |  |
 | ![](assets/2.gif)            | ![](assets/5.gif)                    |
 
 
